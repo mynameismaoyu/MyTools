@@ -1,4 +1,4 @@
-package com.maoyu.base.util;
+package com.maoyu.bean.util;
 
 import com.github.pagehelper.Page;
 import net.sf.cglib.beans.BeanMap;

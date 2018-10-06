@@ -1,4 +1,4 @@
-package com.maoyu.base.util;
+package com.maoyu.bean.util;
 
 import java.util.ArrayList;
 import java.util.Date;

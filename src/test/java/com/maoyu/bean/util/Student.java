@@ -1,4 +1,4 @@
-package com.maoyu.base.util;
+package com.maoyu.bean.util;
 
 /**
  * @author maoyu [2018-10-05 12:24]
