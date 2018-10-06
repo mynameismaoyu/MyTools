@@ -17,7 +17,7 @@ import java.util.Set;
  *
  * @author maoyu [2018-10-05 21:41]
  **/
-public class BeanValidator {
+public final class BeanValidator {
 
     private BeanValidator() {
 

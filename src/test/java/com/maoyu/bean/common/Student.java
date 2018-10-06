@@ -1,12 +1,17 @@
-package com.maoyu.bean.util;
+package com.maoyu.bean.common;
+
+import javax.validation.constraints.NotEmpty;
+import javax.validation.constraints.NotNull;
 
 /**
  * @author maoyu [2018-10-05 12:24]
  **/
 public class Student {
 
+    @NotEmpty(message = "姓名不能为空")
     private String name;
 
+    @NotNull(message = "年龄不能为空")
     private Integer age;
 
     private Long number;
