@@ -3,7 +3,6 @@ package com.maoyu.bean.util;
 import com.maoyu.bean.common.Student;
 import com.maoyu.bean.common.Teacher;
 import org.testng.annotations.Test;
-import org.testng.log4testng.Logger;
 
 import java.util.ArrayList;
 import java.util.Date;
